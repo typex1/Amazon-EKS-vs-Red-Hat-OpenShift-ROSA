@@ -1,0 +1,1 @@
+# Amazon-EKS-vs-Red-Hat-OpenShift-ROSA-
