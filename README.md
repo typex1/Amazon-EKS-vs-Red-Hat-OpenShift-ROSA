@@ -1,5 +1,7 @@
 # Amazon-EKS-vs-Red-Hat-OpenShift-ROSA
 
+Suggestion from Mistral AI, prompt: "If you are already familiar with AWS EKS, which steps are needed to ramp-up on AWS Red Hat OpenShift Service?"
+
 If you're already familiar with **Amazon EKS (Elastic Kubernetes Service)** and want to ramp up on **AWS Red Hat OpenShift Service (ROSA)**, here are the key steps to transition smoothly:
 
 ---
